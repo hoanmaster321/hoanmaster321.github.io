@@ -1,0 +1,87 @@
+body {
+    background: #F4F4FE url(images/bg.png);
+    color: #000000;
+    font-family: Arial, Tahoma, sans-serif;
+    font-size: small;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0;
+}
+a:link,
+a:visited {
+    color: rgba(7, 85, 26, 0.993);
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+.popo {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(242, 248, 242);
+}
+
+.main {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgba(242, 248, 242, 0.281);
+}
+
+.list {
+font-size: 16px;
+}
+.list1 {
+    font-size: 15px;
+}
+.list2 {
+    font-size: 18px;
+}
+.baner {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgba(199, 31, 31, 0.287);
+}
+
+.page {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 17px;
+    background-color: rgba(101, 231, 107, 0.849);
+    color: rgb(255, 255, 255);
+}
+
+.header {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to right, #11e02d94, #c3f8c6c2);
+    font-size: 35px;
+    text-align: center;
+}
+.food {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    color: rgba(246, 246, 246, 0.972);
+    background-color: rgba(0, 2, 5, 0.822);
+    font-size: 20px;
+    text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  background-color: rgba(223, 229, 243, 0.972);
+}
