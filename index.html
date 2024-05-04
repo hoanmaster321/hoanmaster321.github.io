@@ -20,6 +20,22 @@
     <div class="main"><div class="list2"><a href="https://sileo.click/DopamineRoothide/index.html">» Dopamine - Roothide</a></div></br>Phiên bản Dopamine Roothide 2.x - Ân jailbreak hoàn hảo</div>
     <div class="main"><div class="list2"><a href="https://sileo.click/DopamineRoothideMount/index.html">»  Dopamine Roothide - Mod Mount</a></div></br>Phiên bản Dopamine Roothide 2.x - Ân jailbreak hoàn hảo đã được chỉnh sửa lại để fake vào dễ dàng chỉnh sửa hệ thông gọi tắt là "mod mount"</div></br>
     
+    <div class="main"><div class="list2">
+    <p id="myText">/System/Library/Fonts</p></div></div>
+<button class="btn" onclick="copyContent()">Copy!</button>
+
+<script>
+  let text = document.getElementById('myText').innerHTML;
+  const copyContent = async () => {
+    try {
+      await navigator.clipboard.writeText(text);
+      console.log('Content copied to clipboard');
+    } catch (err) {
+      console.error('Failed to copy: ', err);
+    }
+  }
+</script>
+
     <div class="page">Danh sách tweak</div>
     <div class="main"><div class="list"><img src="./images/tweak.png" alt="Tweak" width="25" height="25"style="float:left; margin-right:15px;"> <a href="#">SnowBoard (Roothide)</a> ver 1.5.26-Beta4</div></div>
 </body>
