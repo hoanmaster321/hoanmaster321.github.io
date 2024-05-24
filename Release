@@ -3,6 +3,6 @@ Label: Sileo Click Roothide Repo
 Suite: stable
 Version: 1.0
 Codename: Sileo Click
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm64e
 Components: main
 Descriptoion: Sileo Click Roothide Repo
