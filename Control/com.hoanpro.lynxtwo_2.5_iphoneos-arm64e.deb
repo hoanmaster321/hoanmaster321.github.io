@@ -1,0 +1,22 @@
+Package: com.hoanpro.lynxtwo
+Name: Lynx 2 (Roothide)
+Architecture: iphoneos-arm64e
+Description: Lynx 2 for roothide
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Icon: https://media.havoc.app/61f896da1630a63286dc419c
+Version: 2.5
+Installed-Size: 2604
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.hoanpro.lynxtwo_2.5_iphoneos-arm64e.deb
+Size: 602788
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.lynxtwo_2.5_iphoneos-arm64e.deb
+Size: 602788
+SHA1: c1b16b6c1e907cff296b1e269000a0e29fdf9a9b
+MD5sum: 51babaf3a2e07495300e838dfa302802
+SHA256: 60c8b5662671f80c6c283cd5c0bad3f4bf3be23fb6684583b4c58e7c550693fa
+SHA512: d7123f680022b9fc13f01de7a4eaebc5af5b28f2a7b44294deff17a2db5413a638eccdca0388d8ef8dc33d8072edd7fd6d9220351656c10f42a8970fe1a05a2c

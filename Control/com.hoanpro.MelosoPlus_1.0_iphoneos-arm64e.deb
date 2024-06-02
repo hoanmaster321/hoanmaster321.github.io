@@ -1,0 +1,18 @@
+Package: com.hoanpro.MelosoPlus
+Description: [Update][Meloso for iOS 14-16] 100% By @Alexman1979
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Installed-Size: 2984
+Name: Font Meloso for iOS 14-16
+Sponsor: HoanPro
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.MelosoPlus_1.0_iphoneos-arm64e.deb
+Size: 8090520
+SHA1: ebe781c24cc4fd0210d097537109ff4f5f526fec
+MD5sum: 3fd587cef409166467e96c5533671fa3
+SHA256: b56908ee55a80b65292b90f387cdf178bde5577ee45400da0266e9ec038732b8
+SHA512: 96c96d39382793624b78bc4a1368cb29fea1b7f3e52c914f8ab21a7ff22cdab4884a7423c27123af6f440aa541db3153ebcdcc69470ac508326029d1ca0024ce

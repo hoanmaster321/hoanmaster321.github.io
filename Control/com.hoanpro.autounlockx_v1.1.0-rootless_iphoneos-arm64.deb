@@ -1,0 +1,19 @@
+Package: com.hoanpro.autounlockx
+Name: AutoUnlockX (Roothide)
+Depends: mobilesubstrate, preferenceloader
+Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Installed-Size: 416
+Pre-Depends: rootless-compat(>= 0.1)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.autounlockx_v1.1.0-rootless_iphoneos-arm64.deb
+Size: 65412
+SHA1: 6f96c872eb11cf61b10eee1a913fc2ac98d71aef
+MD5sum: 5625f9e8a14d5d9b88aa327df8acd41b
+SHA256: dba4cbe66dc0048928160d273a4b1be8c77dbeb01aa16de79f1f8eb58cddf60f
+SHA512: 15e07bceccb1934a5a99ba2dc9f2a1bd72f86156eb01bee640a1bf5ce8a58c9d0fd341015f167e63d7a112d9b904af966e869f772cce43560452e3a31af7d523

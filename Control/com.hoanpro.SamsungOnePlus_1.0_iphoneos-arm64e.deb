@@ -1,0 +1,18 @@
+Package: com.hoanpro.SamsungOnePlus
+Description: [Update][SamsungOne for iOS 14-16] 100% By @Alexman1979
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Installed-Size: 2984
+Name: Font SamsungOne for iOS 14-16
+Sponsor: HoanPro
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.SamsungOnePlus_1.0_iphoneos-arm64e.deb
+Size: 7059044
+SHA1: 3f30af421f00683d02ba38e6e9c2bcc12fe70295
+MD5sum: 1e23e8e16e377385122989013307cdb0
+SHA256: 13bad29e5c2984455287bad4838d8de83232899e516bebd52649f17952e2ae9e
+SHA512: eabce220da958be66a80f9558c3a9e4664259e5340e3bc7eb932aa0b0c5b1105946b865ce2c88f616218475c10562d01ad1feee218ff799644165f20dc99fc0c

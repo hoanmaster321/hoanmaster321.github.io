@@ -1,0 +1,21 @@
+Package: com.hoanpro.limneos
+Version: 1.1-3
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Installed-Size: 152
+Name: Limneos Reg (Roothide)
+Description: Buy tweak limeos
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.hoanpro.limneos_1.1-3_iphoneos-arm64e.deb
+Size: 11636
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.limneos_1.1-3_iphoneos-arm64e.deb
+Size: 11636
+SHA1: fbcf7692c7da6ee4077923049ad659d03d956187
+MD5sum: 1177a9712a35c3c2891cb6c370e61e84
+SHA256: b89671486479d9132b61b7c43689e63efa7046c6e605630fe1272c7c1cf97a71
+SHA512: 43cdb335b7656be2da7a6e93cc67232a6d300406a4e97a26011d9f6436925623989ecd1553ccb249ee46762f369bea1409f57574f649f96b1cb5ddac34cc0a3c

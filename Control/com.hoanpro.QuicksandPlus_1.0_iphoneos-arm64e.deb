@@ -1,0 +1,18 @@
+Package: com.hoanpro.QuicksandPlus
+Description: [Update][Quicksand for iOS 14-16] 100% By @Alexman1979
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Installed-Size: 2984
+Name: Font Quicksand for iOS 14-16
+Sponsor: HoanPro
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.QuicksandPlus_1.0_iphoneos-arm64e.deb
+Size: 6606368
+SHA1: c2c9dda147f831358c7a86f32d7bebd1bd87434b
+MD5sum: c374352ff15b95118a7e236238b16987
+SHA256: 7a3b4d211f4cfc06131a9005d9f2db93fa42ece5cb4c82c8c970a52a1fcf01cd
+SHA512: 7d2e5e37e855ba71d346f83b525c058b83c86f4f4c2541c3d67609e7147b61c20b79160ce4b1a90c6667559e8532d1a70fe8f9c1a37dd05bcd69da80155e1d16

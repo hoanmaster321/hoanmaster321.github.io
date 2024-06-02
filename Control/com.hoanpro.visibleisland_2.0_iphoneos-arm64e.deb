@@ -1,0 +1,18 @@
+Package: com.hoanpro.visibleisland
+Name: VisibleIsland (Roothide)
+Description: Enable and fix Dynamic Island on older devices.
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Architecture: iphoneos-arm64e
+Version: 2.0
+Installed-Size: 360
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.visibleisland_2.0_iphoneos-arm64e.deb
+Size: 28388
+SHA1: 0551beb3c3882b36fea30aed44641de105d33562
+MD5sum: 43c516198dbbe91a73e24663afc85aff
+SHA256: de08ad69545e0284cb813b6f743eb6a2ddb8c4de598f5ca04e2bc775b9457166
+SHA512: e7cf7e7ae9343b5c2c79b1d818620f1775e66533209c9d0fe2529366819fc0c60051d77c007bdc67b1e87aec80f22f626dde48a63d4b58e140c2caa790c3fc9a

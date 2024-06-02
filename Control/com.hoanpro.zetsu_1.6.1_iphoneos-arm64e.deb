@@ -1,0 +1,21 @@
+Package: com.hoanpro.zetsu
+Version: 1.6.1
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Installed-Size: 11989
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Name: Zetsu (Roothide)
+Description: Multitasking on iOS15 - iOS16.
+Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
+Tag: compatible_min::ios15.0
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.zetsu_1.6.1_iphoneos-arm64e.deb
+Size: 20324356
+SHA1: 53577e9bb8689cbb263a6c4860a1943f64c6bd4c
+MD5sum: 38c673894900216e754ffd0ceacc6fc2
+SHA256: eba7e1096b44183b33b17930b03a70b3577a32c13cc35106e9b95900fb021c46
+SHA512: 7ac444ad69dcd89119c61451b03e1ce580e40dafaa58e0d18ec36efcc8aaac6059864feaae5eeb1eca36883763687e52ef88a98390fb2c29f5365dc0a3055fe8

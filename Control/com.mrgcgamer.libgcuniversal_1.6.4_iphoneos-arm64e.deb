@@ -1,0 +1,21 @@
+Package: com.mrgcgamer.libgcuniversal
+Name: LibGcUniversal (Roothide)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Description: An awesome library of some sort!!
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.6.4
+Installed-Size: 296
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e.deb
+Size: 44232
+SHA1: 91bacb7791b018786d2bdb22fa3f1ecedd08f4f4
+MD5sum: 9e828ace172b637ba6392a5dadb0fb91
+SHA256: 4d50ffdcf8feda280e33e1190e97f7484a83e919d0b35be33007224d2f81db56
+SHA512: 64ab8780768a37e3292d5d69ae4750a6ff2f5e28a641c3ae979eefb9295d6ff97f38a2ff6c71680e7cc38e6eebd41a7ad4983a46ec04361e2cc57e5646c63249

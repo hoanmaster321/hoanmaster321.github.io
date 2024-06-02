@@ -1,0 +1,20 @@
+Package: com.hoanpro.violetpro
+Version: 1.0.0
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 2.0)
+Architecture: iphoneos-arm64e
+Installed-Size: 6740
+Name: Violet Pro (Roothide)
+Description: The maid for your iphone
+Icon: https://media.havoc.app/6479ae15276ae33252efbe71
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.violetpro_1.0.0_iphoneos-arm64e.deb
+Size: 5777380
+SHA1: 821df25f6e8b7a02b4231380ceeb3698e7bdfa25
+MD5sum: 0eb09aee33e988d2861e43507cd7c606
+SHA256: 53361d1a6f5e169b92f41ea659affd0767f82ba66ee0e011f6b6da6bf8bd9e3f
+SHA512: 06635153a0d0b14463690982e2b86d70ec58918323b3c6e3c95c1c3866de1313cd3ae048777aa0f9fe77bb76d5e95f425effb8d8f3b5941a0df9306b9fa47b9e

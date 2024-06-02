@@ -1,0 +1,24 @@
+Package: com.hoanpro.misaki
+Version: 2.0.4K
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Name: Misaki (Roothide)
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Wutdis1: 123.456789.012345
+Wusdat2: 12345678901234567890123456789.012
+Wutdis3: 1234567890123456.78901234567890
+Wusdat4: 123456789012345678901234567890123456.7
+Whutrthoze: 123456 7890123456789012345.678
+Pre-Depends: rootless-compat(>= 0.1)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.misaki_2.0.4K_iphoneos-arm64e.deb
+Size: 264884
+SHA1: 50b31b91c9a31eff406787dfc49946e3cc46cc9c
+MD5sum: 6de967216555dd38a4ecf8a286588a14
+SHA256: 671c8999a8c85f8acdd39ebb3907d0cc3c255916b1c3ed2bcc0b900da89d2429
+SHA512: 50a224a692b37958824c307a2d19eab2bca3fa9c52252d32855b82afbae72ebc120f9f26c26dfb20d3d4bb287aef1f5310aed133fcf16c6f100b1acb834b9d03

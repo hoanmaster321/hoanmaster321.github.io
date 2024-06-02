@@ -1,0 +1,18 @@
+Package: com.hoanpro.GeogrotesquePlus
+Description: [Update][Geogrotesque for iOS 14-16] 100% By @Alexman1979
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Installed-Size: 2984
+Name: Font Geogrotesque for iOS 14-16
+Sponsor: HoanPro
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.GeogrotesquePlus_1.0_iphoneos-arm64e.deb
+Size: 6339036
+SHA1: cdd9530089c9c7e132f02888873663106226b346
+MD5sum: f44e670de950a5af0bbfbdc38153cccb
+SHA256: 4c4af13db5b185af3b1d493c9f9419c685fd7f988d0be12fbd647fad9ddeb497
+SHA512: 604d715b5df56174bab55e12664875c9ebba52757a80c032e5f0723ce96603fb7adf85fa13bfd27bbeecbb61a2c5950638ff263e60fbcdb7095fb538a60226ff
