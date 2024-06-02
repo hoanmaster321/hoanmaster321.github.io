@@ -1,0 +1,22 @@
+Package: com.hoanpro.uyou
+Name: uYou Youtube (Roothide)
+Depends: firmware (>=13.0), mobilesubstrate, com.hoanpro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Description: Enhance Your YouTube Experience
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+Architecture: iphoneos-arm64e
+Version: 3.0.4
+Installed-Size: 31212
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.uyou_3.0.4_iphoneos-arm64e.deb
+Size: 21785940
+SHA1: 3d38e7ebc0b457947cbc1ede935895adf8333912
+MD5sum: 2177e527789886db33cd01b648b4f4e0
+SHA256: b850b3e51dab691708462d64ed31ead86352d57f0166ad108d0941b8594c0433
+SHA512: 9fdbd81852d022ca5decd4eae0d5b9492dc26b24e71c85c5b24711b467b91e09300a79c9bf411c23ccf8730a8124d1797a0edacde6998b54a852fb4387cf6e27

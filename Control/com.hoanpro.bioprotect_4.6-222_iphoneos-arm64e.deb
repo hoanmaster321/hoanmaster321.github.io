@@ -1,0 +1,20 @@
+Package: com.hoanpro.bioprotect
+Name: BioProtect (Roothide)
+Depends: mobilesubstrate, preferenceloader, com.hoanpro.limneos
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Description: Protect your apps with Touch/Face ID!
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 4.6-222
+Installed-Size: 3148
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.bioprotect_4.6-222_iphoneos-arm64e.deb
+Size: 665572
+SHA1: eb63ea09888bdc15108c3bdac3daf58c52d2d3dc
+MD5sum: 801ea7226992a1a04615ce8febdecc11
+SHA256: 9fe1cd2adcb8fe02da94bd9798cfc2b30df3f1b48e4d52dc68c7166a005bba21
+SHA512: 6218667679e515051eac13cd00ad0bbdcced887770f45838cc8ae91de24c1c219f0ced57c0df0fbe105a8d4fec0424c0d50bd8a1f27c8b231ad3865ae302d854

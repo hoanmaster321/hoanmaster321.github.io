@@ -1,0 +1,20 @@
+Package: com.hoanpro.uyouimport
+Name: uYouImport (Roothide)
+Depends: firmware (>=13.0), mobilesubstrate
+Description: Library for importing songs/videos into the Music app.
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.uyouimport_1.0_iphoneos-arm64e.deb
+Size: 82656
+SHA1: 8a91120f3bbd7667ca832bfa4c64664cf782758d
+MD5sum: 5a7ab59f641e00b232b962921213b10e
+SHA256: b73ba503a60c11f54acb1a8a40c4c44d589375b1d0e0fe1c2338651226894f10
+SHA512: f341bbf12ce2d3def4827d4a9595a1a70d873d9ec18a93f4cbbe6ad09cf752a5a39bd35b6c601d7e2f6f6e5734f07008f28c78cf2cc08f6616cde56d79a2ed3c

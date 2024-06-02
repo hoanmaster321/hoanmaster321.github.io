@@ -1,0 +1,22 @@
+Package: com.hoanpro.voicechanger
+Name: VoiceChanger (Roothide)
+Depends: mobilesubstrate, preferenceloader, com.hoanpro.limneos
+Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Description: Change your voice during a call!
+Section: Tweaks
+MainLibMD5: 8131809d9825837c841f8f54015f50b4
+Architecture: iphoneos-arm64e
+Version: 2.4-3
+Installed-Size: 1420
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.voicechanger_2.4-3_iphoneos-arm64e.deb
+Size: 234536
+SHA1: 1c0901afead94f1b91a36a57f58fbb508b3f2e4b
+MD5sum: 6f6755bc2291f7e905078b68b1caac6a
+SHA256: 81fd199a74e6cb027e16cc453f79104138d0a2af24510c51abc0124b04729cbd
+SHA512: 3a2f0f01c0b3de9bd13f7c48d2a7e757df18045aaaadf2516442fb205cd5e92c4eef051fba6617cc8663bffd55261bf7feca4fcc4bb6dd343e1f32752119a0d4
