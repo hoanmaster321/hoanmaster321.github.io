@@ -1,0 +1,19 @@
+Package: com.hoanpro.ChargeLimiter
+Name: ChargeLimiter (Roothide)
+Version: 1.6
+Description: ChargeLimiter
+Section: Applications
+Depends: firmware (>= 5.0)
+Priority: optional
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.ChargeLimiter_1.6_iphoneos-arm64e.deb
+Size: 1996140
+SHA1: 2cf1f8d88d8ce9698415868979d8d15e974901d0
+MD5sum: ec2306911a765b58b017f775870520ad
+SHA256: 90f638d52b2d6eb6ce0fb5bad2efe2b273844d3d93e54b9dedf074e8abde86e4
+SHA512: c364c3bae83916ecdbac745a1f375dad915a942239396652b634a16404d9118fd986eabe336ab836f11d4a23b7906ae1849cc067fb13498989eaf624974ef320
