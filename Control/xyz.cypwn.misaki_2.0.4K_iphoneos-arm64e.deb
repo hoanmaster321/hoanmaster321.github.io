@@ -1,0 +1,24 @@
+Package: xyz.cypwn.misaki
+Version: 2.0.4K
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Name: Misaki (Roothide)
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Wutdis1: 123.456789.012345
+Wusdat2: 12345678901234567890123456789.012
+Wutdis3: 1234567890123456.78901234567890
+Wusdat4: 123456789012345678901234567890123456.7
+Whutrthoze: 123456 7890123456789012345.678
+Pre-Depends: rootless-compat(>= 0.1)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/xyz.cypwn.misaki_2.0.4K_iphoneos-arm64e.deb
+Size: 267012
+SHA1: bf3193dd9f1670e43e4cbf804315387947fb0620
+MD5sum: 2df41377b995223d0454ac9edf8d27e2
+SHA256: e825dbfe96aa5105d2a79c03b31461e6400f2fde485b776dfc8a87a2dc8191f2
+SHA512: 329733addee3dc446c392d6f0db8ffa680049b443e27c9d052b712c09db56c97afb7de89f32d958592181854ff440c988a40dff21dc2880ff3968541ec089f88
