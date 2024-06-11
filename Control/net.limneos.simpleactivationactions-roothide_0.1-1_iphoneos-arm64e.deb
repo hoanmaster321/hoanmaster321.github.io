@@ -1,0 +1,19 @@
+Package: net.limneos.simpleactivationactions-roothide
+Name: SimpleActivationActions (roothide)
+Depends: mobilesubstrate
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 0.1-1
+Installed-Size: 152
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/net.limneos.simpleactivationactions-roothide_0.1-1_iphoneos-arm64e.deb
+Size: 7024
+SHA1: a1ef62dd60370ffae0ffd733379e7128d5c89528
+MD5sum: faab0c24e0be86970a4d8f17c4eb41fb
+SHA256: 6e12d51a45177f829a0f68177386a6e2c06172985bc857e6c43b5c54a4918bd1
+SHA512: 14b6835f6c8ff347bdaa9cc1e6dd256ed240ec0b934d44de3227b0812ab01f27e1207f51044ef886148ebfadf4fd3854f667cc9746cbdefe865bfc7f70409373

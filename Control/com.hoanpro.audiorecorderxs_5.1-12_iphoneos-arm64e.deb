@@ -1,6 +1,6 @@
 Package: com.hoanpro.audiorecorderxs
 Name: AudioRecorder (Roothide)
-Depends: mobilesubstrate, preferenceloader, com.hoanpro.simpleactivationactions-roothide,com.hoanpro.limneos, firmware(>=15.0)
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-roothide,com.hoanpro.limneos, firmware(>=15.0)
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
 Description: Most Advanced iOS Call Recorder Ever!
 Section: Tweaks
@@ -13,8 +13,8 @@ Maintainer: Sileo.Click
 Depiction: https://sileo.click
 Homepage: https://sileo.click
 Filename: ./debs/com.hoanpro.audiorecorderxs_5.1-12_iphoneos-arm64e.deb
-Size: 1191084
-SHA1: db5dc47fd8d331b38c4512ce932fdff7be842d53
-MD5sum: e3a8f525f6d0643541ff97aceb88cc32
-SHA256: a3b65e82eda2a9b9ee0341f047c31eccf10157ee88c0d5d6750dd0a64e0fc03d
-SHA512: 913391d564bcb9af24378305a73d4f13a0d658a26b8f892101eff48dfb55729dca254d23a7be4d858693f73d8e7344a3675afc9595f380416ae327f7be571d3a
+Size: 1189732
+SHA1: 71220d4d42558273cbaa8c68a1ad83e44193fad3
+MD5sum: de6908630c668b2d96601a10cfaf7f77
+SHA256: c1dc1e8543faf343291dc32c0f615e9b4c1f068812cf33cb6825387af647cf43
+SHA512: ac5f9218253d9c2b66cce63585faf568a334917ed3e041a582e113231c48c0360f6d38eac427d05c8c659f20b97a7adf345ecb803fcdfe4e3155ea9140892356

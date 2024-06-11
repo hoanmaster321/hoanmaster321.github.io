@@ -1,0 +1,19 @@
+Package: com.hoanpro.showtouch
+Name: ShowTouch (Roothide)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Description: Shows where you touch the screen
+Section: Netskao-Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0.4-3
+Installed-Size: 1432
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.showtouch_1.0.4-3_iphoneos-arm64e.deb
+Size: 377724
+SHA1: bb3cfd7f6ec4fc3fbfb56a30971ed9196226c3aa
+MD5sum: 527e898975a1db5ce2a48d84231d75b3
+SHA256: 6d3847641e3db05032f69e8bf2883f22a4162611bb559124944f5d58acae386c
+SHA512: 6d35a4af85b0f23107413746c1d5c7414144147a378a42a7393cfc672bf3c0bbedcc90ef7fff8f039f42449656864905a069fd9ee7d0575ad784f2d3da54740c
