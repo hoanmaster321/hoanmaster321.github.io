@@ -1,0 +1,18 @@
+Package: com.hoanpro.MikhakPlus
+Description: [Update][Mikhak for iOS 14-16] 100% By @Alexman1979
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Installed-Size: 2984
+Name: Font Mikhak for iOS 14-16
+Sponsor: HoanPro
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.MikhakPlus_1.0_iphoneos-arm64e.deb
+Size: 6591748
+SHA1: 9484969fa38cc0c8a5175fa9ecbbabe352912458
+MD5sum: 2d6c1b7f48817966b73d6a3be3f04e82
+SHA256: cc8f17f9c998807338ce061427f55495ab6a1951f629468f234983df05adba71
+SHA512: f0b5aef022b65bf9396ff7573099f76488754fe2e3520ad0af50c27ac3152fb83c4facac7a0a5279bc725383919b799d4a4beafe704396f368cc7eca10f467d0
