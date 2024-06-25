@@ -1,0 +1,21 @@
+Name: HideSerialNumber (Roothide)
+Package: com.hoanpro.hideserialnumber
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Section: Tweaks
+Description: Hide Serial Number in Settings About page.
+dev: ichitaso
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Icon: https://i.imgur.com/uFWkBXD.png
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Installed-Size: 472
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.hideserialnumber_0.0.4_iphoneos-arm64e.deb
+Size: 55080
+SHA1: 3c4953f7bb1b6796af2dd7d2d69ef07ac7785b04
+MD5sum: 715e92ae11d6c3d8b6bb0ff8bfed6da9
+SHA256: 36244bcfd0d9cd22387f0db3cbbb5df957e2d925235f38350601b10b1350356b
+SHA512: 8d05d4b3bd8405bb24313b2fd208179dae4a46e549bc4959ffbe1a9b8acf047f37f3904415a8d72f133ed13593fbec6cab02425cb17c2dc605f4f1b1f39c6e82
