@@ -1,0 +1,23 @@
+Package: com.hoanpro.tweaksettings
+Name: TweakSettings (Roothide)
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Priority: optional
+Description: Dedicated settings app for tweaks
+Section: Applications
+dev: CreatureSurvive
+Tag: purpose::application, compatible_min::ios10
+Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.tweaksettings_1.0.8_iphoneos-arm64e.deb
+Size: 388416
+SHA1: ccae7065e72154c6c7a9ee2bc1ca73b8c902fd2e
+MD5sum: 9fad17d68c9af157c49019193ef1736a
+SHA256: ccc3f6b7fdecafb3e45ef2cae3f688e6510acc28f15227b71ad0b2e5fce5d84d
+SHA512: bc4dd318c0e98c5ef2c7be8ed73e8072187c06715dfe63e117d881ecb885d4eb87400fafb607c9c07a9393768acaffb5e13dbf130a52096dcc9017a86f29fde8

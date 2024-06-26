@@ -1,0 +1,20 @@
+Package: com.ginsu.gsweather
+Name: GSWeather (Roothide)
+Description: A Weather fetching framework
+Section: System
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Architecture: iphoneos-arm64e
+Version: 1.1.1-roothide
+Installed-Size: 1216
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
+Pre-Depends: rootless-compat(>= 0.1)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.ginsu.gsweather_1.1.1-roothide_iphoneos-arm64e.deb
+Size: 122172
+SHA1: 5c1acde9adcdbf39f1ed2217925f28bdcb41c712
+MD5sum: ac67193ade4cb47de775ee82daf9ff3b
+SHA256: cc6d0996e9c79dedc70f51e413cd603b3b54ebddd0f071869e86eae775109ab0
+SHA512: c295bf4f5fa854422004489d103a0b43b2715952c2b8c0d5448df3d1bd84b00e85a53b183944181adcc6f3754edfcb730c6723c9538bbba09520ca611c9dbb48

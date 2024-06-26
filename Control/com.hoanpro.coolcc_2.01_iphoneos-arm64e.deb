@@ -1,0 +1,18 @@
+Package: com.hoanpro.coolcc
+Name: CoolCC Reborn (Roothide)
+Description: This tweak makes ControlCenter cool! Compatible with iOS 15/roôthide 
+Section: roothide插件
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader 
+Architecture: iphoneos-arm64e
+Version: 2.01
+Installed-Size: 356
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.coolcc_2.01_iphoneos-arm64e.deb
+Size: 24456
+SHA1: ee30b6a1772c579364dea266cf9c7ef9a7c4732b
+MD5sum: 23595caa4dcf8b5466ef9a75078ae041
+SHA256: 236ef0ff544c0bd95daae66d7155686bba3530b95513a4ee842a4ae66e5c0921
+SHA512: f4a8df5f66b84a41ffc8f3e6f15798beb9620f52875a30a126b6023a399d0cb5219414b3805869eac4ee54ce0997386e60a673372e1ba8ccaea8cd97bfb8ef34

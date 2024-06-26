@@ -1,0 +1,20 @@
+Package: com.hoanpro.dodo
+Name: Dodo (Roothide)
+Description: The perfect Lock Screen redesign.
+Section: Tweaks
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
+Architecture: iphoneos-arm64e
+Version: 4.2.2-roothide
+Installed-Size: 7592
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
+Pre-Depends: rootless-compat(>= 0.1)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.dodo_4.2.2-roothide_iphoneos-arm64e.deb
+Size: 957640
+SHA1: b0b81a84e43e4499aca04c59087a48aa10377ab8
+MD5sum: 0ebf2197710ea3d320768863873801bc
+SHA256: debf1132e7cb69361ab9e52af549174cc54b004906b34843904259230acbb9a8
+SHA512: 21995d0d94a09df5a14279fad5559776710acc5c92f9478fb486bbfd98e9ab276605a114a3c44c8175c212a8b408293a639f462a12fc9eedd489d74c49588b7d

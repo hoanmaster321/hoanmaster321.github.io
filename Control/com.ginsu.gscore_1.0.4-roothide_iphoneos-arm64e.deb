@@ -1,0 +1,19 @@
+Package: com.ginsu.gscore
+Name: GSCore (Roothide)
+Description: Environment and communication between my tweaks
+Section: System
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Architecture: iphoneos-arm64e
+Version: 1.0.4-roothide
+Installed-Size: 4272
+Pre-Depends: rootless-compat(>= 0.1)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.ginsu.gscore_1.0.4-roothide_iphoneos-arm64e.deb
+Size: 440052
+SHA1: 21282351467fdce37b674a3c5edace4f69a98ac3
+MD5sum: 236d8d63341ff36cd573799d77d14ee1
+SHA256: bdfc50bd473af277367958bf830bc3035b0b180e09edfbe8252cb876124b8510
+SHA512: 9ae775444202a375dad26e5e9013c28f3dc7f03856a3e8279ab7f018ed7e3a4d512f5c8bd772f1308a6a1ae6f490904c14e4f746e01f4442bd97a71d2589e9c2
