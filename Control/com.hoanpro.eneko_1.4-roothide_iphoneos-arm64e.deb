@@ -1,0 +1,21 @@
+Package: com.hoanpro.eneko
+Name: Eneko (Roothide) 
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Icon: https://dekotas.org/asset/eneko/icon.png
+Description: Live wallpapers for iOS
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4-roothide
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.1)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.eneko_1.4-roothide_iphoneos-arm64e.deb
+Size: 31896
+SHA1: 71866c238b4b865b95213f77d42aff64d0ccf835
+MD5sum: 40a1ee1ff448aa0c4c46eef95f787ba1
+SHA256: 721a449d30cc1e3cb430c49cfd43976b6d07e695b1988f899eb96e6c34bf77c4
+SHA512: a10f085ee7f0edd12e6fd15aceec0bba38caaf7a7306df23ca4806c6e0a111a4068e750b9098012d9d94427be99fe5a027c0064813be7e2261127b0dd9ff1cc6
