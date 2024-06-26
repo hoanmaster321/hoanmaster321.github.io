@@ -1,0 +1,20 @@
+Package: com.hoanpro.aria
+Name: Aria (Roothide)
+Description: Enhance the stock CC or Prysm on the fly
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
+Architecture: iphoneos-arm64e
+Version: 0.9.8~RC
+Installed-Size: 680
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.aria_0.9.8~RC_iphoneos-arm64e.deb
+Size: 112038
+SHA1: e4676ecebb3d9ec9bbf1244d7f3ce634fd146d04
+MD5sum: d50dd5333e26f7432d939677207c07ff
+SHA256: d54289e7a3a239bbf6959922f764bef501dac0634739e6caeff006876a3a813a
+SHA512: ae411ed1c69d328ab33f372d9559c5754dfde8455efb3f8f0b040b4e45528ba8a4d21f287d8e11e2e481cf3a2ef4d85b541073f3a78fa7d0c0bcc63ab30ec886

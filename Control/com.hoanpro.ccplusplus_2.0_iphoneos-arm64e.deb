@@ -1,0 +1,19 @@
+Package: com.hoanpro.ccplusplus
+Name: CC++ (Roothide)
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Description: Collection of control center modules
+Section: Tweaks
+Version: 2.0
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/ccplusplus.png
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.ccplusplus_2.0_iphoneos-arm64e.deb
+Size: 1048516
+SHA1: 313406b382da349f065af4f3c64a6bc7b04f5c8f
+MD5sum: b8bb88b314295ff6ab2213ac200a5d8e
+SHA256: fa15becdb55a1aedc80a2bf62b0da87a63d371b566c678e8f53ffcdbbca29f00
+SHA512: 78a77327c67c17f65761acce35f15a09e99ab98eaa966af6c9bc2349ed73fe21916c4e612b648fdcba38809f1bed3804f459a630abaf989272a270ecaf14d45a
