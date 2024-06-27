@@ -1,0 +1,19 @@
+Package: com.hoanpro.batteryhealthenabler
+Name: Battery Health Enabler (Roothide)
+Description: Enable Battery Health on unsupported devices.
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.batteryhealthenabler_1.0.1_iphoneos-arm64e.deb
+Size: 6536
+SHA1: ce8106b2085bf40573e1873a237f92c0dd0b81d2
+MD5sum: da72dd8c9fd6442763ceddac1a2424b7
+SHA256: e6b89ae38fd5f7b702abca5601f07d28d99bd4c6af8f562cb6138fe7ec11ce04
+SHA512: 82c3c4f3e3f9d8f38a42ffe1596039ef8cc2660135f9d14fc352065e1d5840e161e188b7764f20e55d8b7e1b0c16621b1fb888d774897860cf2a93eb4742d2c6
