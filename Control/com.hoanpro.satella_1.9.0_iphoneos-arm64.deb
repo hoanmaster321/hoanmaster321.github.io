@@ -1,0 +1,19 @@
+Package: com.hoanpro.satella
+Name: Satella (Roothide)
+Description: Modern in-app purchase cracker
+Section: Tweaks
+Icon: https://paisseon.github.io/icons/Satella.png
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 1.9.0
+Installed-Size: 456
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.satella_1.9.0_iphoneos-arm64.deb
+Size: 69708
+SHA1: 05995688f3ac4414ebfb19c3cbb939c05182104a
+MD5sum: d564e8cb35b87fe0cc9049cea80c530a
+SHA256: 4e81823f8314552f53666346b712370f061e116b77c7a34ebb45fea9f84abd34
+SHA512: 5dbb9bef703f53f54835d33d6f0523828074030b11a73d13cfb7a32f87d0e333abf220eeaeab2d0d37a676e4ee47cde7b16b9101558ec93b1fb581919f1d58be

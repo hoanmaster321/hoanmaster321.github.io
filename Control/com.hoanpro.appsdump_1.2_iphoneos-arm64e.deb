@@ -1,0 +1,19 @@
+Package: com.hoanpro.appsdump
+Version: 1.2
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Name: AppsDump (Roothide)
+Description: AppsDump
+Sponsor: gblw
+Icon: https://apt.wxhbts.pro/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.appsdump_1.2_iphoneos-arm64e.deb
+Size: 1319008
+SHA1: d37872ac908e9133da14dadf223824fc79567cc6
+MD5sum: 148c09e0e682d573f833859706991ec5
+SHA256: 7738645ba3c89f61e306c19278f33de33f25d1b2079cede1f8998d70ce4eda34
+SHA512: 5850eefe30be486cdac5682796531c71fceef0d932d89da5f33308f362773d1d2beaa5d3662fa0eb9e94c14117470fa7b2bed051606d0c3eb5a4c6956702bbcc
