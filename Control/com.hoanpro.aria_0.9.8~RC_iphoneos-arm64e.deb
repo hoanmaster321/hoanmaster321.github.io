@@ -1,6 +1,6 @@
 Package: com.hoanpro.aria
 Name: Aria (Roothide)
-Description: Enhance the stock CC or Prysm on the fly
+Description: Tùy chỉnh sâu hơn cho Control center  hoăc Prysm 
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
