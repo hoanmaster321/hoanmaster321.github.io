@@ -3,7 +3,7 @@ Name: BioProtect (Roothide)
 Depends: mobilesubstrate, preferenceloader, com.hoanpro.limneos
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
-Description: Protect your apps with Touch/Face ID!
+Description: Bảo vệ ứng dụng của bạn bằng Touch/Face ID!
 Section: Tweaks
 Architecture: iphoneos-arm64e
 Version: 4.6-222

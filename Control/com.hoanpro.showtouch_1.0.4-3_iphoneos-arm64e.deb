@@ -1,7 +1,7 @@
 Package: com.hoanpro.showtouch
 Name: ShowTouch (Roothide)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Description: Shows where you touch the screen
+Description: Hiển thị nơi bạn chạm vào màn hình
 Section: Tweaks
 Architecture: iphoneos-arm64e
 Version: 1.0.4-3

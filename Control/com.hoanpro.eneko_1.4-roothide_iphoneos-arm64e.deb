@@ -3,7 +3,7 @@ Name: Eneko (Roothide)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.eneko
 Icon: https://dekotas.org/asset/eneko/icon.png
-Description: Live wallpapers for iOS
+Description: Hình nền động cho iOS
 Section: Tweaks
 Architecture: iphoneos-arm64e
 Version: 1.4-roothide

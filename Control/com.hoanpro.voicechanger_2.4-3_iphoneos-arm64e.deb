@@ -3,7 +3,7 @@ Name: VoiceChanger (Roothide)
 Depends: mobilesubstrate, preferenceloader, com.hoanpro.limneos
 Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
-Description: Change your voice during a call!
+Description: Thay đổi giọng nói của bạn trong khi gọi
 Section: Tweaks
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
 Architecture: iphoneos-arm64e

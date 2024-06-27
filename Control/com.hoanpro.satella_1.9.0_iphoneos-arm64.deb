@@ -1,6 +1,6 @@
 Package: com.hoanpro.satella
 Name: Satella (Roothide)
-Description: Modern in-app purchase cracker
+Description: Cracker mua hàng trong ứng dụng Appstore
 Section: Tweaks
 Icon: https://paisseon.github.io/icons/Satella.png
 Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist

@@ -2,7 +2,7 @@ Name: HideSerialNumber (Roothide)
 Package: com.hoanpro.hideserialnumber
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
 Section: Tweaks
-Description: Hide Serial Number in Settings About page.
+Description: Ẩn số sê-ri và chỉnh sửa các thông số (Cài đặt - Giới thiệu)
 dev: ichitaso
 Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
 Icon: https://i.imgur.com/uFWkBXD.png

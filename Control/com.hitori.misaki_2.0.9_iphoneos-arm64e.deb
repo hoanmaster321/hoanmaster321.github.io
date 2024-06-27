@@ -5,7 +5,7 @@ Section: Tweaks
 Installed-Size: 1038
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Name: Misaki (Roothide)
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Description: Tùy chỉnh trải nghiệm iOS 15 & 16 của bạn với Misaki. các tùy chọn tùy chỉnh để biến iPhone thực sự là của bạn.
 Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Tag: compatible_min::ios15.0
 Pre-Depends: rootless-compat(>= 0.9)

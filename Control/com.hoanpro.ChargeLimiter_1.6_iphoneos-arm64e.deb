@@ -1,7 +1,7 @@
 Package: com.hoanpro.ChargeLimiter
 Name: ChargeLimiter (Roothide)
 Version: 1.6
-Description: ChargeLimiter
+Description: Xem thông số pin & chỉnh % pin sạc tối đa
 Section: Applications
 Depends: firmware (>= 5.0)
 Priority: optional

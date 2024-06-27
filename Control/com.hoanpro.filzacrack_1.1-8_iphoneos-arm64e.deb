@@ -1,7 +1,7 @@
 Package: com.hoanpro.filzacrack
 Name: Filza Cr@ck (Roothide)
 Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
-Description: Filza unlock full functionality, the main program please install in the official source
+Description: Filza bẻ khóa đầy đủ chức năng
 Section: Tweaks
 Architecture: iphoneos-arm64e
 Version: 1.1-8

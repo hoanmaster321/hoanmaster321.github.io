@@ -5,7 +5,7 @@ Depends: mobilesubstrate, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, ws.h
 Architecture: iphoneos-arm64e
 Installed-Size: 6740
 Name: Violet Pro (Roothide)
-Description: The maid for your iphone
+Description: Người giúp việc cho iPhone của bạn
 Icon: https://media.havoc.app/6479ae15276ae33252efbe71
 Pre-Depends: rootless-compat(>= 0.9)
 Author: Sileo.Click

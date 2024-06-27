@@ -1,6 +1,6 @@
 Package: com.hoanpro.visibleisland
 Name: VisibleIsland (Roothide)
-Description: Enable and fix Dynamic Island on older devices.
+Description: Kích hoạt và sửa lỗi Dynamic Island trên các thiết bị cũ hơn.
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
 Architecture: iphoneos-arm64e

@@ -2,7 +2,7 @@ Package: com.hoanpro.ccplusplus
 Name: CC++ (Roothide)
 Depends: mobilesubstrate, com.opa334.ccsupport
 Architecture: iphoneos-arm64e
-Description: Collection of control center modules
+Description: Bộ sưu tập các module Control Center
 Section: Tweaks
 Version: 2.0
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/ccplusplus.png

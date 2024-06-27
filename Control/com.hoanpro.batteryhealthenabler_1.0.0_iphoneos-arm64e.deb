@@ -1,6 +1,6 @@
 Package: com.hoanpro.batteryhealthenabler
 Name: Battery Health Enabler (Roothide)
-Description: Enable Battery Health on unsupported devices.
+Description: Kích hoạt tình trạng pin trên các thiết bị không được hỗ trợ hoặc thay thế pin không chính hãng
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
 Architecture: iphoneos-arm64e

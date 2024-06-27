@@ -5,7 +5,7 @@ Depends: mobilesubstrate, firmware (>= 15.0)
 Architecture: iphoneos-arm64e
 Installed-Size: 152
 Name: Limneos Cr@ck (Roothide)
-Description: Buy tweak limeos
+Description: Bẻ khóa tinh chỉnh của Limneos Bioprotect, Autorecorder, v.v ...
 Pre-Depends: rootless-compat(>= 0.1)
 Author: Sileo.Click
 Maintainer: Sileo.Click

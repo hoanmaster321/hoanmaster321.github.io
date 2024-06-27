@@ -4,7 +4,7 @@ Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64e
 Name: AppsDump (Roothide)
-Description: AppsDump
+Description: Xuất file ipa Crack Id
 Sponsor: gblw
 Icon: https://apt.wxhbts.pro/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
 Author: Sileo.Click

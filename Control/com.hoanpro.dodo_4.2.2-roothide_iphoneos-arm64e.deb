@@ -1,6 +1,6 @@
 Package: com.hoanpro.dodo
 Name: Dodo (Roothide)
-Description: The perfect Lock Screen redesign.
+Description: Thiết kế lại màn hình khóa hoàn hảo.
 Section: Tweaks
 Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
 Architecture: iphoneos-arm64e

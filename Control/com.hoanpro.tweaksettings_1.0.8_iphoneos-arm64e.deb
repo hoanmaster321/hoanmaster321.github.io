@@ -2,7 +2,7 @@ Package: com.hoanpro.tweaksettings
 Name: TweakSettings (Roothide)
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
 Priority: optional
-Description: Dedicated settings app for tweaks
+Description: Ứng dụng cài đặt chuyên dụng cho các chỉnh sửa
 Section: Applications
 dev: CreatureSurvive
 Tag: purpose::application, compatible_min::ios10

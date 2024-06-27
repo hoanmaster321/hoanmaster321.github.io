@@ -1,6 +1,6 @@
 Package: com.hoanpro.coolcc
 Name: CoolCC Reborn (Roothide)
-Description: This tweak makes ControlCenter cool! Compatible with iOS 15/roôthide 
+Description: Tinh chỉnh này làm cho Control Center trở nên thú vị
 Section: roothide插件
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader 
 Architecture: iphoneos-arm64e

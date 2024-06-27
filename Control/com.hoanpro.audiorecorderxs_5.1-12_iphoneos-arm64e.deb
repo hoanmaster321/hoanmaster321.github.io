@@ -2,7 +2,7 @@ Package: com.hoanpro.audiorecorderxs
 Name: AudioRecorder (Roothide)
 Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-roothide,com.hoanpro.limneos, firmware(>=15.0)
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
-Description: Most Advanced iOS Call Recorder Ever!
+Description: Ghi âm cuộc gọi iOS tiên tiến nhất từ ​​trước đến nay!
 Section: Tweaks
 MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
 Architecture: iphoneos-arm64e

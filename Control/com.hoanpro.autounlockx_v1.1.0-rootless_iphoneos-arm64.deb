@@ -1,7 +1,7 @@
 Package: com.hoanpro.autounlockx
 Name: AutoUnlockX (Roothide)
 Depends: mobilesubstrate, preferenceloader
-Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+Description: Trừ khi có thông báo, thiết bị sẽ tự động mở khóa khi phát hiện Face ID hợp lệ
 Section: Tweaks
 Architecture: iphoneos-arm64e
 Version: 1.1.0

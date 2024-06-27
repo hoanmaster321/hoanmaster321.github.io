@@ -5,7 +5,7 @@ Section: Tweaks
 Installed-Size: 11989
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
 Name: Zetsu (Roothide)
-Description: Multitasking on iOS15 - iOS16.
+Description: Đa nhiệm trên IOS hoàn hảo
 Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
 Tag: compatible_min::ios15.0
 Pre-Depends: rootless-compat(>= 0.9)
