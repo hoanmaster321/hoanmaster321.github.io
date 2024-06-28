@@ -1,0 +1,18 @@
+Package: com.hoanpro.batteryhealthenabler
+Name: Battery Health Enabler
+Description: Fix pin % không hiển thị
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 152
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.batteryhealthenabler_1.0.1_iphoneos-arm64.deb
+Size: 5524
+SHA1: c2d15b17d294406090e9cda5462f3d332c70a3f3
+MD5sum: b5f075c5436e4eb2892c74a8be6bf078
+SHA256: 13249c2b8ef2f50b1fe906b2c24a862d52b9ca8cb047c4d7e975558edbf7c40f
+SHA512: eeed04979bd375d41a5d0386391f29a5618e24ee9c94dc5709b6ae828e2a38b6d058ac62e6f1d0409c85bd139275b372e5b73445410bf995855d5a09d4a72b40
