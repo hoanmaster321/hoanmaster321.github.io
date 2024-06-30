@@ -7,7 +7,6 @@ Architecture: iphoneos-arm64e
 Installed-Size: 3120
 Name: Crane (Roothide)
 Sponsor: 搬运工
-Icon: https://chinesebuilding.club/pic/cydia.png
 Tag: Cydia
 Description: Crane allows you to create multiple containers per application! Multiple containers for your applications!
 Pre-Depends: rootless-compat(>= 0.9)
@@ -16,8 +15,8 @@ Maintainer: Sileo.Click
 Depiction: https://sileo.click
 Homepage: https://sileo.click
 Filename: ./debs/com.hoanpro.crane_1.3.14-6_iphoneos-arm64e.deb
-Size: 579356
-SHA1: 6f2a486e6f76cef70fcf6c27b5339d90d61d061f
-MD5sum: 252111cc5c1333edb0158421477f8785
-SHA256: 7760145dd34b86252a565e82b81e3e1c8de8af7bd1c9292c86d16eaed576e0d7
-SHA512: e7870c5e81a058bc0a1ab1750d1dfc76ca663bed0f70686e5d05b4333739555974d6dd76e280a3ce198bad9042d54d4efa3291cee47b6d58b4880a6bff8c62c0
+Size: 578756
+SHA1: 8b66018f1b5709c0e99b8f94e2da1c01ea354c58
+MD5sum: 343fa2ba3090d8f6de4addf10206d92e
+SHA256: e4afbfcb3bea19f41845127b406bc76d61c2843a2ce57e4bef52d923abc5150c
+SHA512: 0805a84c1694d70268d0b9147364b55b6bc67d1c123c9a47a8f6b21a7f0b9c5f5a9650b5dfb19bdaa89ee508c0a01fdb7d68bcb5be087984e2447359abda8c35
