@@ -1,0 +1,23 @@
+Package: com.hoanpro.crane
+Version: 1.3.14-6
+Section: Tweaks
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Architecture: iphoneos-arm64e
+Installed-Size: 3120
+Name: Crane (Roothide)
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+Tag: Cydia
+Description: Crane allows you to create multiple containers per application! Multiple containers for your applications!
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.crane_1.3.14-6_iphoneos-arm64e.deb
+Size: 579356
+SHA1: 6f2a486e6f76cef70fcf6c27b5339d90d61d061f
+MD5sum: 252111cc5c1333edb0158421477f8785
+SHA256: 7760145dd34b86252a565e82b81e3e1c8de8af7bd1c9292c86d16eaed576e0d7
+SHA512: e7870c5e81a058bc0a1ab1750d1dfc76ca663bed0f70686e5d05b4333739555974d6dd76e280a3ce198bad9042d54d4efa3291cee47b6d58b4880a6bff8c62c0
