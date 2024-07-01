@@ -1,0 +1,18 @@
+Package: com.hoanpro.fivecolumnscc
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0~beta4
+Depends: mobilesubstrate
+Description: 5 hàng cho control center thay vì mặc đình 4!
+Name: FiveColumnsCC (Roothide)
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.fivecolumnscc_1.0~beta4_iphoneos-arm64e.deb
+Size: 6064
+SHA1: 398ce2847d50ba409a13bc3c859a2869f621973a
+MD5sum: 244ac0e1e23c31a01b1629901371ca89
+SHA256: e6cb96b02f9a3f7d0e9a5ec16943358a51d58409055f9976d70ca950adda32ac
+SHA512: f544ea2e0ecaf3953ad3c7c0d8e8a74ef184470e3ede8b76c174856ecc4302f25500d6e36877b55ba3cc2747693e8f675ab86f127c0ab5c9aafa0d400010151c
