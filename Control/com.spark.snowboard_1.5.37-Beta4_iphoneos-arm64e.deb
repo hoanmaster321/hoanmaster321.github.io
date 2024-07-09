@@ -1,0 +1,22 @@
+Package: com.spark.snowboard
+Name: SnowBoard (Roothide)
+Depends: mobilesubstrate, preferenceloader
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.5.37-Beta4
+Installed-Size: 3268
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.spark.snowboard_1.5.37-Beta4_iphoneos-arm64e.deb
+Size: 1129788
+SHA1: b6a303847c9f9a8e4ed764a00272311fa04a490d
+MD5sum: 7f3650ce8577ef1cb84f0d87fa5c8ef6
+SHA256: 32073ab00ad8f2dd690867bf33c3e339cdd31d1f7b02ae38ee838015ad5a3938
+SHA512: afdf67977c5d9217de7cd56dd431b568323ab5883f7c4f20b0b8b66c93cc321e106870b536fb02a06b0222fae2511b3f235845a7082ac86bd1fb89f6bf9e0c70
