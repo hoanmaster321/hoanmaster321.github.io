@@ -1,0 +1,19 @@
+Package: com.hoanpro.appdata
+Name: AppData (Roothide)
+Description: Tinh chỉnh của netskao conver roothide Sileo.Click
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.4.2
+Installed-Size: 3772
+Pre-Depends: rootless-compat(>= 0.9)
+Author: Sileo.Click
+Maintainer: Sileo.Click
+Depiction: https://sileo.click
+Homepage: https://sileo.click
+Filename: ./debs/com.hoanpro.appdata_1.4.2_iphoneos-arm64e.deb
+Size: 827760
+SHA1: dabfb918993ff27f1719b120ef09c33b2bc93d14
+MD5sum: 57b11e9bdb71abb8a4baf2d5f78dc844
+SHA256: a8d5c1fe7436b2c6b9bd84c99ff79d9886e2b25ee6529ea8830fce55142212a6
+SHA512: 7571e340b274107eb1533bde370f862c40740e2f64d455e7ea13fb1049c64d4950f50b3d4c2ec072d58bfac114bd0090fe31e941e28a0faaaae8e7e4e4e67510
